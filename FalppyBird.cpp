@@ -1,7 +1,7 @@
 #include <SDL.h>
 #include <SDL_image.h>
 #include <iostream>
-#
+
 // Constants
 const int SCREEN_WIDTH = 800;
 const int SCREEN_HEIGHT = 600;
